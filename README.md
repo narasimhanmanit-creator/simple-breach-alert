@@ -29,7 +29,7 @@ Zero-Retention Metadata-Only Cache protocol to protect consumer data privacy.
          ▼ 
 [ ASYNC BACKGROUND WORKER ] ──(Processes tasks strictly sequentially) 
          │ 
-   (1.6s Delay) 
+   (1.6s Delay)
          ▼ 
   [ HIBP SECURE API ] 
  
